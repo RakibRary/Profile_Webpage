@@ -1,3 +1,3 @@
 # Profile_Webpage
 
-![](images/Rakibprofilepic.png)
+![](images/Rakibprofilepic.PNG)
